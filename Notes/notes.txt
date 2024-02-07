@@ -1,0 +1,39 @@
+Basics of Database--->
+***Creating our First Database
+--------------------------------
+-> CREATE DATABASE db_name;
+
+***Deleting our first Database
+----------------------------------
+-> DROP DATABASE db_name;
+
+*** Creating table
+-------------------------
+-> USE db_name;
+-> CREATE TABLE table_name(
+	column_name1 datatype contraint;
+	column_name2 datatype contraint;
+	column_name3 datatype contraint;
+);
+
+***SQL Datatypes
+------------------
+CHAR    -- can store characters of fixed length
+VARCHAR -- can store characters up to given length
+BLOB -- can store binary large object
+INT -- integer value
+TINYINT -- little integer
+BIGINT -- bit integer
+BIT -- can store x-bit values
+FLOAT -- Decimal Number with precision to 23 digits
+ 
+DOUBLE -- '' '' '' with 24 to 53 digits
+BOOLEAn -- Boolean values 0 or 1
+DATE -- date in format of YYYY-MM-DD
+YEAR -- year in 4 digits 1901 to 2155
+Singned and Unsigned -- for int, double
+****TYPES of SQL Commands
+-----------------------------
+DDL(Data Definition Language): create, alter, reaname, truncate and drop
+DQL(Data Query Language): Select
+DML(Data Manipulation Language): insert, update and delete

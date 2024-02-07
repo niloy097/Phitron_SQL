@@ -1,0 +1,36 @@
+Module-2(My sql and basic query)
+*create, insert, delete, drop
+
+Module-3(Table Query)
+*Constraints
+*select
+*where
+*Arithmatic Operators
+*Comparison Operators
+*Logical and or operators
+*Distinct, order by, limit, offset
+
+Module - 5 (Functions)
+*Functions
+*Group Functions
+*Group bym having
+*alter table
+*dummy database
+
+Module-6(Subquery)
+*Subquery
+*Examples of ""
+*Common Table Expressions(With as)
+*Example of ""
+
+Moudle -7 (Join)
+*Joining tables
+*Joining tables without using join query
+*joining tables with join query
+*inner, left, right, cross, join
+*self join
+*example of join query
+
+Module - 9(Key, set operation and Problem Solving)
+
+
